@@ -2,7 +2,7 @@
 
 </div>
 <p align="center">
-  <img src="https://github.com/echavemendez/echavemendez/blob/main/assets/icegif-18.gif" alt="Descripción del GIF" width="300" height="300">
+  <img src="https://github.com/echavemendez/echavemendez/blob/main/assets/icegif-18.gif" alt="Descripción del GIF">
 </p>
 
 
