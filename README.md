@@ -1,9 +1,10 @@
 
 
 
-<p align="center">
-  <img src="![icegif-18](https://github.com/user-attachments/assets/37e3645d-a183-4872-9ba2-879ba5eeb403)" alt="animated" />
-</p>
+
+<div align="center">
+	<img src="![icegif-18](https://github.com/user-attachments/assets/dc4f7cf0-eff6-48ad-b6b2-7f7b953c0d7a)">
+</div>
 
 
 
