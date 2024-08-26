@@ -2,9 +2,9 @@
 
 
 
- <p align="center">
+
   ![icegif-18](https://github.com/user-attachments/assets/37e3645d-a183-4872-9ba2-879ba5eeb403)
-</p>
+
 
 
 My name is Manuel, i have an undergrad in chemical sciences and im studying applied mathematics to data sciences in the University of Buenos Aires (UBA), Argentina. 
