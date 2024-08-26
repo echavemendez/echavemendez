@@ -13,10 +13,8 @@ My name is Manuel, i have an undergrad in chemical sciences and im studying appl
 I'll be sharing my personal proyects, my academic proyects and  all the past proyects that i've done didn't uplaod while doing them. Hopefully you find something useful! 
 
 
-<p style="text-align: center;"> 
-  <img src="https://github.com/echavemendez/echavemendez/blob/main/assets/monkey-developer.gif" alt="Descripción del GIF" width="320" height="200">    
 
+</div>
+<p align="center">
+  <img src="https://github.com/echavemendez/echavemendez/blob/main/assets/monkey-developer.gif" alt="Descripción del GIF">
 </p>
-
-
-
