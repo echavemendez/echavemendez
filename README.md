@@ -2,9 +2,10 @@
 
 
 
-<div align="center">
-	<img src="![icegif-18](https://github.com/user-attachments/assets/dc4f7cf0-eff6-48ad-b6b2-7f7b953c0d7a)">
-</div>
+
+<p align="center">
+  <img src="![icegif-18](https://github.com/user-attachments/assets/3f5e13e4-576a-4829-8b0d-a1dce8808f13)" alt="Descripción del GIF">
+</p>
 
 
 
