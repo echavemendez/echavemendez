@@ -1,7 +1,7 @@
 <p align="center">
-  <gif width="460" height="300" src="![icegif-18](https://github.com/user-attachments/assets/474bb59c-2491-4f13-ae38-97e80254c46e)">
+  <img src="(https://github.com/user-attachments/assets/474bb59c-2491-4f13-ae38-97e80254c46e)" alt="animated" />
 </p>
-
+ 
 
 
 My name is Manuel, i have an undergrad in chemical sciences and im studying applied mathematics to data sciences in the University of Buenos Aires (UBA), Argentina. 
