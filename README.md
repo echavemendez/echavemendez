@@ -1,11 +1,11 @@
 
 
 
-
-
-<p align="center">
+<div style="text-align: center;">
   <img src="![icegif-18](https://github.com/user-attachments/assets/3f5e13e4-576a-4829-8b0d-a1dce8808f13)" alt="Descripción del GIF">
-</p>
+</div>
+
+
 
 
 
