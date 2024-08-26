@@ -2,13 +2,8 @@
 
 </div>
 <p align="center">
-  <img src="![icegif-18](https://github.com/user-attachments/assets/3f5e13e4-576a-4829-8b0d-a1dce8808f13)" alt="Descripción del GIF" width="300" height="300">
+  <img src="https://github.com/echavemendez/echavemendez/blob/main/assets/icegif-18.gif" alt="Descripción del GIF" width="300" height="300">
 </p>
-<p align="center">
-  <img src="https://miweb.com/migif.gif" alt="Un GIF animado mostrando un logo girando" width="300" height="300">
-</p>
-
-
 
 
 
