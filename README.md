@@ -9,7 +9,7 @@
 
 
 
-My name is Manuel, i have an undergrad in chemical sciences currently im studying applied mathematics to data sciences in the University of Buenos Aires (UBA), Argentina. 
+My name is Manuel, i have an undergrad in chemical sciences, currently im studying applied mathematics to data sciences in the University of Buenos Aires (UBA), Argentina. 
 I'll be sharing my personal proyects, my academic proyects and  all the past proyects that i've done and didn't uplaod while doing them. Hopefully you find something useful! 
 
 
