@@ -9,8 +9,13 @@
 
 
 
-My name is Manuel, i have an undergrad in chemical sciences, currently im studying applied mathematics to data sciences in the University of Buenos Aires (UBA), Argentina. 
-I'll be sharing my personal proyects, my academic proyects and  all the past proyects that i've done and didn't uplaod while doing them. Hopefully you find something useful! 
+Hi! My name is Manuel. Argentinian currently based in Oslo, Norway. I have a Bachelor's degree in Data Science from the University of Buenos Aires (UBA), Argentina, with a background in Chemical Sciences.
+
+Here I'll be sharing my personal projects, academic projects, and some of the projects I've worked on in the past but never got around to uploading.
+
+You'll find a bit of everything here: data science, mathematics, programming, data analysis, and software development.
+
+Hopefully, you find something useful!
 
 
 
